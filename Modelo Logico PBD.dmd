@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Modelo Logico PBD" id="6A4BAC43-6860-1E67-7E39-B4516E7D894A" version="3.5">
+<createdBy>danie</createdBy>
+<createdTime>2025-03-09 15:41:24 UTC</createdTime>
+<ownerDesignName>Modelo Logico PBD</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>6A4BAC43-6860-1E67-7E39-B4516E7D894A</designId>
+</OSDM_Design>
